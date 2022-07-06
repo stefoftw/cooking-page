@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cooking-page/static/css/main.8eb48caf.chunk.css",
+    "main.js": "/cooking-page/static/js/main.d563ff49.chunk.js",
+    "main.js.map": "/cooking-page/static/js/main.d563ff49.chunk.js.map",
+    "runtime-main.js": "/cooking-page/static/js/runtime-main.ce65078a.js",
+    "runtime-main.js.map": "/cooking-page/static/js/runtime-main.ce65078a.js.map",
+    "static/js/2.ef62d365.chunk.js": "/cooking-page/static/js/2.ef62d365.chunk.js",
+    "static/js/2.ef62d365.chunk.js.map": "/cooking-page/static/js/2.ef62d365.chunk.js.map",
+    "index.html": "/cooking-page/index.html",
+    "static/css/main.8eb48caf.chunk.css.map": "/cooking-page/static/css/main.8eb48caf.chunk.css.map",
+    "static/js/2.ef62d365.chunk.js.LICENSE.txt": "/cooking-page/static/js/2.ef62d365.chunk.js.LICENSE.txt",
+    "static/media/mode-icon.18c28fe1.svg": "/cooking-page/static/media/mode-icon.18c28fe1.svg",
+    "static/media/trashcan.45d41f10.svg": "/cooking-page/static/media/trashcan.45d41f10.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce65078a.js",
+    "static/js/2.ef62d365.chunk.js",
+    "static/css/main.8eb48caf.chunk.css",
+    "static/js/main.d563ff49.chunk.js"
+  ]
+}
